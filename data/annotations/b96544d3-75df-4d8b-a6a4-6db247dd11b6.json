@@ -111,6 +111,22 @@
       ],
       "tags": [],
       "uuid": "07770cab-884b-41de-a448-7f962fd39a71"
+    },
+    {
+      "start_time": 115,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Large amount of debris hides cephalopod from view."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5de1654-6f58-4cbc-9327-6bfe74ff926f"
     }
   ],
   "set": "Default",
