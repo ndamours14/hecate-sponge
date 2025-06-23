@@ -79,6 +79,22 @@
       ],
       "tags": [],
       "uuid": "4401d2d5-ddbe-4b20-9c72-257087bf07dc"
+    },
+    {
+      "start_time": 75,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Swimming fish becomes visible in center of screen; small octopus becomes visible at bottom of screen."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "49483e9a-dafd-4fee-a420-f60bb24350bb"
     }
   ],
   "set": "Default",
