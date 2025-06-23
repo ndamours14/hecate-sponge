@@ -143,6 +143,22 @@
       ],
       "tags": [],
       "uuid": "ab856c5b-57fd-4cad-8474-7837333c7a2d"
+    },
+    {
+      "start_time": 150,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Urchin visible on right-hand side of screen."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "77759fd5-ae61-4ec9-8995-217b9ba89a32"
     }
   ],
   "set": "Default",
