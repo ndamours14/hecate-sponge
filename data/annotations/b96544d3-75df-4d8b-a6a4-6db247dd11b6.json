@@ -323,7 +323,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Creatures",
+          "tag": "Starfish"
+        },
+        {
+          "category": "Creatures",
+          "tag": "Fish"
+        }
+      ],
       "uuid": "1df6a494-c279-4e2a-bf37-f0aa8ee0ae48"
     },
     {
