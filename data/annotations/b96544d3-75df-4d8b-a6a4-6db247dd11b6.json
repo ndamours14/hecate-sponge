@@ -55,7 +55,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Creatures",
+          "tag": "Urchin"
+        }
+      ],
       "uuid": "93a63a60-9708-47ab-87df-f7454a87e048"
     },
     {
