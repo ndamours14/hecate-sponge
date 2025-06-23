@@ -348,7 +348,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Events",
+          "tag": "End of dive"
+        }
+      ],
       "uuid": "6f1b095b-dffd-4c58-b832-529b6af87287"
     }
   ],
