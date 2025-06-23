@@ -164,7 +164,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Events",
+          "tag": "Debris"
+        },
+        {
+          "category": "Events",
+          "tag": "Sendiment"
+        }
+      ],
       "uuid": "d5de1654-6f58-4cbc-9327-6bfe74ff926f"
     },
     {
