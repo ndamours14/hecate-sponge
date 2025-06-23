@@ -13,7 +13,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Creatures",
+          "tag": "Fish"
+        }
+      ],
       "uuid": "c60c66c2-4b94-4c16-8a23-54c7288daea2"
     },
     {
