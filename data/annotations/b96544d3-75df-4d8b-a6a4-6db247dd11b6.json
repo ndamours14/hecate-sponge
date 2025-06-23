@@ -34,7 +34,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Events",
+          "tag": "Debris"
+        }
+      ],
       "uuid": "d5dfc30f-f07d-47a6-becb-7333108cda31"
     },
     {
