@@ -223,6 +223,22 @@
       ],
       "tags": [],
       "uuid": "028e5e7c-054a-4860-85d8-f08fcb027e84"
+    },
+    {
+      "start_time": 396,
+      "end_time": 410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Starfish and other fish visible on screen."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1df6a494-c279-4e2a-bf37-f0aa8ee0ae48"
     }
   ],
   "set": "Default",
