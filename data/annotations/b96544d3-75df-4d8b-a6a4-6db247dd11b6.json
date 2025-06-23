@@ -239,6 +239,22 @@
       ],
       "tags": [],
       "uuid": "1df6a494-c279-4e2a-bf37-f0aa8ee0ae48"
+    },
+    {
+      "start_time": 410,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dive ended prematurely."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6f1b095b-dffd-4c58-b832-529b6af87287"
     }
   ],
   "set": "Default",
