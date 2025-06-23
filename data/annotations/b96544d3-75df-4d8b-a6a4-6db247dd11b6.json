@@ -127,6 +127,22 @@
       ],
       "tags": [],
       "uuid": "d5de1654-6f58-4cbc-9327-6bfe74ff926f"
+    },
+    {
+      "start_time": 134,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Swimming fish visible on left-hand side of screen."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ab856c5b-57fd-4cad-8474-7837333c7a2d"
     }
   ],
   "set": "Default",
