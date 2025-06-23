@@ -95,6 +95,22 @@
       ],
       "tags": [],
       "uuid": "49483e9a-dafd-4fee-a420-f60bb24350bb"
+    },
+    {
+      "start_time": 85,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zoom and focus on small, moving cephalopod."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "07770cab-884b-41de-a448-7f962fd39a71"
     }
   ],
   "set": "Default",
