@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "d5dfc30f-f07d-47a6-becb-7333108cda31"
+    },
+    {
+      "start_time": 32,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three urchins become visible in center."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "93a63a60-9708-47ab-87df-f7454a87e048"
     }
   ],
   "set": "Default",
