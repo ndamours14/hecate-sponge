@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "c60c66c2-4b94-4c16-8a23-54c7288daea2"
+    },
+    {
+      "start_time": 7,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Various debris hitting camera."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5dfc30f-f07d-47a6-becb-7333108cda31"
     }
   ],
   "set": "Default",
