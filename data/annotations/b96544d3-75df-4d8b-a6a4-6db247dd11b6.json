@@ -143,7 +143,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Creatures",
+          "tag": "Cephalopod"
+        }
+      ],
       "uuid": "07770cab-884b-41de-a448-7f962fd39a71"
     },
     {
