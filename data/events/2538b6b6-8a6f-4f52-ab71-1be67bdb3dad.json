@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "336cdedf-4cb5-4fa8-89d7-fdba95ae9959": {
+      "label": "AV File 12",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/238/885/original/2017-05-20_17_07_09005.mp4?1711487181",
+      "duration": 420.95386
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-06-23T16:27:13.833Z",
+  "created_by": "ndamours14",
+  "item_type": "Video",
+  "label": "R2002 - Conway Imaging (2017 Dive 20)",
+  "updated_at": "2025-06-23T16:27:13.833Z",
+  "updated_by": "ndamours14"
+}
