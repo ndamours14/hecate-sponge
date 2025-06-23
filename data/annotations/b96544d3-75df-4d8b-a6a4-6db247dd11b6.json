@@ -175,6 +175,22 @@
       ],
       "tags": [],
       "uuid": "a3b678a9-fddc-4fa3-bd54-37fc1b440d59"
+    },
+    {
+      "start_time": 250,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Urchin visible in center of screen."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4cfaf634-3650-480b-89a5-7a14a25b7e72"
     }
   ],
   "set": "Default",
