@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Underwater video shot during a Leys Lab cruise in May 2017. More information can be found here: https://ualberta.aviaryplatform.com/collections/2706/collection_resources/127004/file/238889"
         }
       ]
     }
@@ -21,6 +21,9 @@
   "created_by": "ndamours14",
   "item_type": "Video",
   "label": "R2002 - Conway Imaging (2017 Dive 20)",
-  "updated_at": "2025-06-23T16:27:13.833Z",
-  "updated_by": "ndamours14"
+  "updated_at": "2025-06-23T16:33:22.691Z",
+  "updated_by": "ndamours14",
+  "av_file_order": [
+    "dec0e056-df66-42f5-acc6-bd861c5b82b2"
+  ]
 }
