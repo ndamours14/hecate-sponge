@@ -207,6 +207,22 @@
       ],
       "tags": [],
       "uuid": "a0228a80-190e-4033-8746-7b24e4651106"
+    },
+    {
+      "start_time": 303,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Skate visible on screen."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "028e5e7c-054a-4860-85d8-f08fcb027e84"
     }
   ],
   "set": "Default",
