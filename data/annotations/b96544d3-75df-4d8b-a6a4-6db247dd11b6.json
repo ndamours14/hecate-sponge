@@ -47,6 +47,22 @@
       ],
       "tags": [],
       "uuid": "93a63a60-9708-47ab-87df-f7454a87e048"
+    },
+    {
+      "start_time": 42,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zoom in on two urchins, more clearly visible."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a9350f96-92f3-4ca3-a9bd-a8af24021093"
     }
   ],
   "set": "Default",
