@@ -277,7 +277,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Creatures",
+          "tag": "Urchin"
+        },
+        {
+          "category": "Creatures",
+          "tag": "Anemone"
+        }
+      ],
       "uuid": "a0228a80-190e-4033-8746-7b24e4651106"
     },
     {
