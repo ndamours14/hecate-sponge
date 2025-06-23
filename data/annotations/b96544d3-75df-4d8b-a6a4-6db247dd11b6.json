@@ -97,7 +97,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Creatures",
+          "tag": "Unidentified"
+        }
+      ],
       "uuid": "4401d2d5-ddbe-4b20-9c72-257087bf07dc"
     },
     {
