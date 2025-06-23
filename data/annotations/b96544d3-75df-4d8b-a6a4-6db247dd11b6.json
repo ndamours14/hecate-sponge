@@ -159,6 +159,22 @@
       ],
       "tags": [],
       "uuid": "77759fd5-ae61-4ec9-8995-217b9ba89a32"
+    },
+    {
+      "start_time": 160,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Multiple fish visible swimming and resting at bottom."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a3b678a9-fddc-4fa3-bd54-37fc1b440d59"
     }
   ],
   "set": "Default",
