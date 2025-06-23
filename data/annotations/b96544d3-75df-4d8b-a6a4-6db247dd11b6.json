@@ -118,7 +118,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Creatures",
+          "tag": "Fish"
+        },
+        {
+          "category": "Creatures",
+          "tag": "Cephalopod"
+        }
+      ],
       "uuid": "49483e9a-dafd-4fee-a420-f60bb24350bb"
     },
     {
