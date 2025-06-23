@@ -302,7 +302,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Creatures",
+          "tag": "Skate"
+        }
+      ],
       "uuid": "028e5e7c-054a-4860-85d8-f08fcb027e84"
     },
     {
